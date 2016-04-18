@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./devipercussioni00unkngoog_0306.png"; bbox 0 0 3692 4534; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2766 930 2899 949">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2766 930 2899 949">
+     <span class='ocr_line' id='line_1_1' title="bbox 2766 930 2899 949; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 2766 930 2899 949; x_wconf 50' lang='lat' dir='ltr'><strong>*vt-...-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 133 736 145 979">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 133 736 145 979">
+     <span class='ocr_line' id='line_1_2' title="bbox 133 736 145 979; baseline 243 -243"><span class='ocrx_word' id='word_1_2' title='bbox 133 736 142 749; x_wconf 77' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 133 788 145 933; x_wconf 49' lang='grc' dir='ltr'><strong>Ῑιιθι.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 137 972 144 979; x_wconf 67' lang='grc'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 85 4292 202 4304">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 85 4292 202 4304">
+     <span class='ocr_line' id='line_1_3' title="bbox 85 4292 202 4304; baseline 0.026 -5"><span class='ocrx_word' id='word_1_5' title='bbox 85 4292 110 4301; x_wconf 56' lang='lat'><strong>0·</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 131 4292 171 4302; x_wconf 61' lang='grc' dir='ltr'><strong>ο-</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 197 4299 202 4304; x_wconf 88' lang='grc'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
